@@ -9,4 +9,8 @@
 *Additional aspects:*
 * Begin understanding of markdown and create professional ReadMe.md files.
 
-    trust me
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
