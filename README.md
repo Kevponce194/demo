@@ -7,4 +7,4 @@
 * Solidify understanding of push to Github repo.
 
 *Additional aspects:*
-    * Begin understanding of markdown and create professional ReadMe.md files
+* Begin understanding of markdown and create professional ReadMe.md files
