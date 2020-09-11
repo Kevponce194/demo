@@ -4,4 +4,5 @@
 
 * Create a basic .html file to understand tags and correct flow and semantics.
 * Create a .css file and add styling to begin understanding of basic css structure. 
+* Solidify understanding of push to Github repo.
     
