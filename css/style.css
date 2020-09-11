@@ -9,6 +9,8 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 150%;
+    font-size: 18px;
 }
 
 #main-bio {
@@ -24,31 +26,25 @@ body {
 #bio-image {
     float: left;
     width: 200px;
+    margin: 0px 20px 0px 0px;
 
 }
 
 h1 {
     color: #eee;
     font-size: 28px;
-    padding: 10px 0px 10px 0px;
-    
-}
-
-header {
-    background: #333333;
+    padding: 20px 0px 20px 0px;
+    margin: 0;
+    margin-bottom: 20px;
     text-align: center;
+}
+    
+header {
+    background: #333
 }
 
 h2 {
     font-size: 24px;
-    margin: 20px;
-}
-
-img {
-    margin: 0px 20px 0px 20px;
-}
-p {
-    line-height: 1.5;
 }
 
 a {
