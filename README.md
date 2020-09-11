@@ -1,4 +1,4 @@
-# Unit 1 - Day 2 - HTML and CSS Demo files 
+# Week 1 - Day 2 - HTML and CSS Demo files 
 
 **Objective**
 
